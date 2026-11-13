@@ -1,0 +1,29 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables & Secrets (CRITICAL)
+.env
+.env.local
+*.env
+
+# Model weights & large binary artifacts
+*.pkl
+*.joblib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints*/
+
+# Streamlit temporary data
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
