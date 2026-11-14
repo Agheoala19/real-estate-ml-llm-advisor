@@ -4,6 +4,14 @@ An end-to-end hybrid AI application that combines **classical Machine Learning**
 
 ---
 
+## Project Demo
+
+[![Watch Demo](https://img.youtube.com/vi/xFVa4_gNBYM/maxresdefault.jpg)](https://www.youtube.com/watch?v=xFVa4_gNBYM)
+
+Click on the preview above to watch the full project demonstration.
+
+---
+
 ## Architecture & Workflow
 
 Large Language Models excel at synthesis and reasoning, yet they frequently hallucinate or miscalculate numerical estimates on tabular datasets. Conversely, classical ML models produce accurate statistical predictions but lack business narrative. This project bridges both capabilities:
